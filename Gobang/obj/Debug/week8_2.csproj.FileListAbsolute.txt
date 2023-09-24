@@ -1,0 +1,10 @@
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\bin\Debug\week8_2.exe.config
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\bin\Debug\week8_2.exe
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\bin\Debug\week8_2.pdb
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\obj\Debug\week8_2.csprojAssemblyReference.cache
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\obj\Debug\week8_2.Form1.resources
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\obj\Debug\week8_2.Properties.Resources.resources
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\obj\Debug\week8_2.csproj.GenerateResource.cache
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\obj\Debug\week8_2.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\obj\Debug\week8_2.exe
+C:\Users\Chung\Documents\NCKU\WindowProgram\VisualStudio\week8\week8_2\obj\Debug\week8_2.pdb
