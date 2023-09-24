@@ -1,0 +1,3 @@
+Name: aaa, Money: 0
+Name: bbb, Money: 100
+Name: ccc, Money: 30
